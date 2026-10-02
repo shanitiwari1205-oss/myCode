@@ -1,5 +1,2 @@
-# myCode
-This is my first Git Repository
-<br>
-<hr>
-Author - Shani Tiwari
+💫 About Me:<br>
+MCA First-Year Student | Passionate about Tech Innovation | Exploring Emerging Technologies | Building, Learning & Growing
