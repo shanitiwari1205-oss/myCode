@@ -17,5 +17,5 @@ MCA First-Year Student | Passionate about Tech Innovation | Exploring Emerging T
 <hr>
 ✍️ Random Dev Quote
  
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.<br>
 -Danny Hillis
